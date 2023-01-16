@@ -1,3 +1,5 @@
+import React from 'react'
+
 const CartIcon = () => {
     return (
       <svg
@@ -11,4 +13,3 @@ const CartIcon = () => {
   };
   
   export default CartIcon;
-  
